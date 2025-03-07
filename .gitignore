@@ -1,4 +1,6 @@
 venv/
 notebooks/data/
 data/
-notebooks/runs
+notebooks/runsnotebooks/.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+notebooks/runs/
